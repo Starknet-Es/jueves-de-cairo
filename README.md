@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="starknet logo" src="./assets/starknet.png" width="200" >
   <h1 align="center">Jueves de Cairo</h1>
-  <p align="center">Este repositorio contiene información sobre los Jueves de Cairo, incluyendo enlaces a cada sesión y los materiales compartidos en ellas..</p>
+  <p align="center">Este repositorio contiene información sobre los Jueves de Cairo, incluyendo enlaces a cada sesión y los recursos compartidos en ellas.</p>
 </div>
 
 ## Jueves #1 
