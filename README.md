@@ -129,3 +129,22 @@
 - [Articulo The StarkNet Stack](https://medium.com/starknet-edu/the-starknet-stack-7b0d70a7e1d4)
 - [Papyrus, Cairo Wishlist, Starknet x Braavos Hardware Signer and much more - StarkNet Edu Newsletter](https://starknet.substack.com/p/papyrus-cairo-wishlist-starknet-x?utm_source=post-email-title&publication_id=1059528&post_id=97149701&isFreemail=true&utm_medium=email)
 - [Doc Blast RPC](https://docs.blastapi.io/blast-documentation/readme)
+
+## Jueves #5
+
+### Video: -
+
+### Links compartidos en la llamada: 
+
+#### StarkNet Security Challenge
+- [Repositorio](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
+
+#### Ejemplos con Cairo 1
+- [Repositorio Explorando Cairo 1](https://github.com/dpinones/exploring-of-cairo-1)
+- [Repositorio Cairo 1 template](https://github.com/msaug/cairo1-template)
+- [Repositorio Min StarkNet](https://github.com/Darlington02/min-starknet/tree/cairo1.0/cairo1.0)
+
+#### Noticias
+- [Anuncios en StarkwareSessions2023 - StarkNetEs](https://twitter.com/StarkNetEs/status/1623042098252623872?s=20&t=DY56BtdIVRd9j49hK9Lseg)
+- [Novedades sobre StarkNet - Nurstar](https://twitter.com/0xNurstar/status/1623566016289677313)
+- [Integración de Protostar con Cairo 1](https://twitter.com/MaksDemitraszek/status/1623643014827589632)
