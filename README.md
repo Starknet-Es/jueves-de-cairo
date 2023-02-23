@@ -137,14 +137,52 @@
 ### Links compartidos en la llamada: 
 
 #### StarkNet Security Challenge
-- [Repositorio](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
+- [Repositorio Starknet Security Challenges](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
 
-#### Ejemplos con Cairo 1
-- [Repositorio Explorando Cairo 1](https://github.com/dpinones/exploring-of-cairo-1)
-- [Repositorio Cairo 1 template](https://github.com/msaug/cairo1-template)
+#### Ejemplos con Cairo 1.0
+- [Repositorio Explorando Cairo 1.0](https://github.com/dpinones/exploring-of-cairo-1)
+- [Repositorio Cairo 1.0 template](https://github.com/msaug/cairo1-template)
 - [Repositorio Min StarkNet](https://github.com/Darlington02/min-starknet/tree/cairo1.0/cairo1.0)
 
 #### Noticias
 - [Anuncios en StarkwareSessions2023 - StarkNetEs](https://twitter.com/StarkNetEs/status/1623042098252623872?s=20&t=DY56BtdIVRd9j49hK9Lseg)
 - [Novedades sobre StarkNet - Nurstar](https://twitter.com/0xNurstar/status/1623566016289677313)
-- [Integración de Protostar con Cairo 1](https://twitter.com/MaksDemitraszek/status/1623643014827589632)
+- [Integración de Protostar con Cairo 1.0](https://twitter.com/MaksDemitraszek/status/1623643014827589632)
+
+## Jueves #6
+
+### Video: https://www.youtube.com/watch?v=T-h41OMx2xo
+
+### Links compartidos en la llamada: 
+
+#### Proyecto StarkNet Security Challenge
+- [Starknet Security Challenges](https://starknet-challenges.vercel.app/)
+- [Repositorio Starknet Security Challenges](https://github.com/devnet0x/Starknet-Security-Challenges-Repo)
+
+#### Stark
+- [Profundizando en Starks](https://mirror.xyz/layer2es.eth/8TUEfpZPgl1u3-HyyGaUA0YMrFm8XSHfYtY6tfqFX7s)
+
+#### Cairo 1.0
+- [Artículo de Cairo 1.0-alpha3](https://starkware.medium.com/cairo-1-0-alpha-3-just-released-45ba7f2f995f)
+- [Cairo 1.0, esta listo?](https://starkscan.co/cairo-one)
+- [Lista de paridad con las características de Cairo 0](https://github.com/starkware-libs/cairo/blob/main/docs/FEATURE_PARITY.md)
+
+#### Migrar contratos
+- [Guía de Solidity a Cairo 1.0](https://from-solidity-to-cairo.notion.site/from-solidity-to-cairo/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e)
+
+#### Ejemplos con Cairo 1.0
+- [Repositorio Starklings](https://github.com/shramee/starklings-cairo1)
+- [Repositorio Quaireaux](https://github.com/keep-starknet-strange/quaireaux)
+- [Ejemplo de un amm](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra/blob/master/src/amm.cairo )
+
+#### Instalación de Cairo 1.0
+- [Repositorio Cairo Installer](https://github.com/sdgalvan/cairo-installer)
+- [Artículo sobre la instalacion de Cairo 1.0](https://medium.com/@elias.tazartes/ahead-of-the-curve-install-cairo-1-0-alpha-and-prepare-for-regenesis-85f4e3940e20)
+
+#### Colaborar en Kakarot ZKEVM
+- [Primeros pasos para contribuir en Kakarot ZKEVM](https://www.youtube.com/watch?v=MUzfvHeqXZs)
+
+#### Noticias
+- [App Android con StarkNet](https://blog.swmansion.com/creating-an-android-application-with-starknet-jvm-and-jetpack-compose-55f08dea5faa)
+- [Scarb - Administrador de paquetes](https://github.com/software-mansion/scarb)
+- [Introducción a Horus](https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67)
