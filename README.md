@@ -177,7 +177,7 @@
 
 #### Instalación de Cairo 1.0
 - [Repositorio Cairo Installer](https://github.com/sdgalvan/cairo-installer)
-- [Artículo sobre la instalacion de Cairo 1.0](https://medium.com/@elias.tazartes/ahead-of-the-curve-install-cairo-1-0-alpha-and-prepare-for-regenesis-85f4e3940e20)
+- [Artículo sobre la instalación de Cairo 1.0](https://medium.com/@elias.tazartes/ahead-of-the-curve-install-cairo-1-0-alpha-and-prepare-for-regenesis-85f4e3940e20)
 
 #### Colaborar en Kakarot ZKEVM
 - [Primeros pasos para contribuir en Kakarot ZKEVM](https://www.youtube.com/watch?v=MUzfvHeqXZs)
