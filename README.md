@@ -186,3 +186,22 @@
 - [App Android con StarkNet](https://blog.swmansion.com/creating-an-android-application-with-starknet-jvm-and-jetpack-compose-55f08dea5faa)
 - [Scarb - Administrador de paquetes](https://github.com/software-mansion/scarb)
 - [Introducción a Horus](https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67)
+
+## Jueves #7
+
+### Video: https://www.youtube.com/watch?v=9Ku3rI0stYM
+
+### Links compartidos en la llamada: 
+
+#### Aritmética modular
+- [¿Qué es la Aritmética Modular y por qué es tan usada en criptografía?](https://github.com/Starknet-Es/Maths-StarknetEs/blob/main/Gu%C3%ADas%20Completas/Aritm%C3%A9tica%20Modular/Readme.md)
+
+#### Dapps para Starknet en Dart
+- [Starknet Dart SDK](https://github.com/focustree/starknet.dart)
+- [Artículo sobre Starknet Dart](https://starknation.org/cross-platform-dapps-with-starknet-dart/)
+
+#### Redes Neuronales
+- [Repositorio Red Neuronal](https://github.com/raphaelDkhn/cairo_ml)
+
+#### Red social
+- [StarkNet Social Testnet Guide](https://medium.com/@starknetsocial/starknet-social-testnet-guide-69345fdb75f9)
