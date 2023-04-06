@@ -205,3 +205,29 @@
 
 #### Red social
 - [StarkNet Social Testnet Guide](https://medium.com/@starknetsocial/starknet-social-testnet-guide-69345fdb75f9)
+
+## Jueves #8
+
+### Video: https://www.youtube.com/watch?v=dXRH0XNmnKQ
+
+### Links compartidos en la llamada: 
+
+#### Cairo 1.0
+- [From Solidity to Cairo 1.0](https://from-solidity-to-cairo.notion.site/from-solidity-to-cairo/From-Solidity-to-Cairo-1-0-WIP-9d6aad0ba8c24771bd523df74796e87e)
+- [Desplegando tu primer contrato con Cairo 1.0 en Starknet](https://twitter.com/Starknet/status/1638484073105752064)
+- [Repositorio Desplegando tu primer contrato con Cairo 1.0 en Starknet](https://github.com/starknet-edu/deploy-cairo1-demo)
+- [Guía para verificar tus contratos en Voyager ](https://medium.com/nethermind-eth/verifying-a-starknet-smart-contract-on-voyager-3c2f127e84f6)
+- [Guía desplegando Cairo 1.0](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1)
+
+#### Sierra
+- [Artículo sobre Sierra](https://medium.com/nethermind-eth/under-the-hood-of-cairo-1-0-exploring-sierra-7f32808421f5)
+
+#### Protostar Dev Tools
+- [Docs sobre Protostar](https://docs.swmansion.com/protostar/docs/tutorials/cairo-1-support/project-initialization)
+- [Repositorio Protostar](https://github.com/software-mansion/protostar)
+
+#### Noticias
+- [Calendario de eventos Starknet](https://starkware.notion.site/2023-Events-f52da174fc7a4b728a657ec64792ad2c)
+- [Starknet Alpha v0.11.0](https://medium.com/starkware/starknet-alpha-v0-11-0-the-transition-to-cairo-1-0-begins-30442d494515)
+- [Primera ronda de grants para Early Adopter (EAG)](https://community.starknet.io/t/applications-for-round-1-of-early-adopter-grants-eag/54273)
+- [Los 5 comités de la Fundación StarkNet](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees)
