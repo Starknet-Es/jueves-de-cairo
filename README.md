@@ -231,3 +231,36 @@
 - [Starknet Alpha v0.11.0](https://medium.com/starkware/starknet-alpha-v0-11-0-the-transition-to-cairo-1-0-begins-30442d494515)
 - [Primera ronda de grants para Early Adopter (EAG)](https://community.starknet.io/t/applications-for-round-1-of-early-adopter-grants-eag/54273)
 - [Los 5 comités de la Fundación StarkNet](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees)
+
+
+## Jueves #9
+
+### Video: https://www.youtube.com/watch?v=iQkoyzPtrTk
+
+### Links compartidos en la llamada: 
+
+#### Cairo 1.0
+- [Cairo book](https://cairo-book.github.io/)
+- [StarkNet book](https://book.starknet.io/)
+- [Repositorio WTF-Starknet](https://github.com/WTFAcademy/WTF-Starknet)
+- [Cairo practice](https://cairopractice.com/)
+
+#### Madara
+- [Repositorio Madara](https://github.com/keep-starknet-strange/madara)
+
+#### Instalador de Nodos
+- [Repositorio Osiris](https://github.com/kasarlabs/myOsiris)
+
+#### Oraculos 
+- [Pragma Oracle](https://twitter.com/PragmaOracle)
+
+#### Cairo Fuzzer
+- [Repositorio Cairo Fuzzer](https://github.com/FuzzingLabs/cairo-fuzzer)
+
+#### Ambassador Programs
+- [StarkNet Social](https://twitter.com/StarknetSocial/status/1644000842666721281)
+- [Braavos](https://braavos.notion.site/Braavos-Ambassador-Program-Roles-And-Levels-ac2d49a86c444e2c87591f8ee077f85e)
+
+#### Noticias
+- [Extensión de Cairo para VS Code](https://github.com/Nadai2010/Nadai-StarknetEs-StarkExt-VS-Code)
+- [Aave v3. en Starknet](https://governance.aave.com/t/launch-aave-v3-on-starknet/12381)
