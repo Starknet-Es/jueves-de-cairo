@@ -232,7 +232,6 @@
 - [Primera ronda de grants para Early Adopter (EAG)](https://community.starknet.io/t/applications-for-round-1-of-early-adopter-grants-eag/54273)
 - [Los 5 comités de la Fundación StarkNet](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees)
 
-
 ## Jueves #9
 
 ### Video: https://www.youtube.com/watch?v=iQkoyzPtrTk
@@ -264,3 +263,32 @@
 #### Noticias
 - [Extensión de Cairo para VS Code](https://github.com/Nadai2010/Nadai-StarknetEs-StarkExt-VS-Code)
 - [Aave v3. en Starknet](https://governance.aave.com/t/launch-aave-v3-on-starknet/12381)
+
+## Jueves #10
+
+### Video: https://www.youtube.com/watch?v=n8jMybcp-Mg
+
+### Links compartidos en la llamada: 
+
+#### Pioneros Starknet
+- [Que es Pioneros?](https://twitter.com/espejelomar/status/1646536241301835786)
+- [Registro](https://forms.reform.app/starkware/starknet-basecamp-registration-starting-apr-11th-copy/itvk4e)
+
+#### Docker Cairo
+- [Tutorial](https://gist.github.com/glihm/ed2629e44ef5f68dc094d90d60fdc5bc)
+- [Video tutorial](https://www.youtube.com/watch?v=1jS3uOsv9Z4)
+- [Imagen base](https://hub.docker.com/r/starknet/cairo/tags)
+
+#### Cairo 1.0
+- [Repositorio Cairo Template](https://github.com/auditless/cairo-template)
+- [Scarb](https://docs.swmansion.com/scarb/download)
+- [How to write ERC721 contracts](https://blog.reddio.com/how-to-write-erc721-contracts-with-cairo-1)
+- [Starknet challenges](https://starknet-challenges.vercel.app/ethernaut22/challenge12)
+- [Cairo V1.0.0-alpha.7](https://github.com/starkware-libs/cairo/releases/tag/v1.0.0-alpha.7)
+- [Ejemplo loop](https://github.com/starkware-libs/cairo/blob/b4b795299d6f9642a7f6af455b4823448d583438/examples/fib_loop.cairo#L4)
+
+#### Keep StarkNet Strange
+- [Repositorio Quaireaux](https://github.com/keep-starknet-strange/quaireaux)
+- [Presentación Quaireaux - Dub](https://www.canva.com/design/DAFgAjdoc40/Tc9rf2reXVXFuKowcHS0oA/view)
+- [Repositorio Madara](https://github.com/keep-starknet-strange/madara)
+- [Community Call Madara](https://github.com/keep-starknet-strange/madara/discussions/222)
