@@ -4,6 +4,21 @@
   <p align="center">Este repositorio contiene información sobre los Jueves de Cairo, incluyendo enlaces a cada sesión y los recursos compartidos en ellas.</p>
 </div>
 
+## Índice de llamadas
+
+* [Jueves #1](#jueves-1)
+* [Jueves #2](#jueves-2)
+* [Jueves #3](#jueves-3)
+* [Jueves #4](#jueves-4)
+* [Jueves #5](#jueves-5)
+* [Jueves #6](#jueves-6)
+* [Jueves #7](#jueves-7)
+* [Jueves #8](#jueves-8)
+* [Jueves #9](#jueves-9)
+* [Jueves #10](#jueves-10)
+* [Jueves #11](#jueves-11)
+* [Jueves #12](#jueves-12)
+
 ## Jueves #1 
 
 ### Video: https://youtu.be/4D11ejpK0iQ
@@ -45,6 +60,8 @@
 #### Capibara
 - [Apibara](https://www.apibara.com/)
 
+[Volver al inicio](#índice-de-llamadas)
+
 ## Jueves #2 
 
 ### Video: https://youtu.be/istF-lBqiXk
@@ -81,6 +98,8 @@
 - [Repositorio Nadai-NaiProxyV2-Starknet-ERC20](https://github.com/Nadai2010/Nadai-NaiProxyV2-Starknet-ERC20)
 - [Articulo Creating Upgradable Smart Contracts on StarkNet](https://medium.com/starknet-edu/creating-upgradable-smart-contracts-on-starknet-12b7d9bd60c7)
 
+[Volver al inicio](#índice-de-llamadas)
+
 ## Jueves #3 
 
 ### Video: https://youtu.be/L0dX2vohHq0
@@ -97,6 +116,8 @@
 - [Repositorio basecamp](https://github.com/starknet-edu/basecamp)
 - [Starkcon](https://www.youtube.com/@starkcon)
 - [Encode Bootcamps](https://www.encode.club/encode-bootcamps)
+
+[Volver al inicio](#índice-de-llamadas)
 
 ## Jueves #4
 
@@ -130,6 +151,8 @@
 - [Papyrus, Cairo Wishlist, Starknet x Braavos Hardware Signer and much more - StarkNet Edu Newsletter](https://starknet.substack.com/p/papyrus-cairo-wishlist-starknet-x?utm_source=post-email-title&publication_id=1059528&post_id=97149701&isFreemail=true&utm_medium=email)
 - [Doc Blast RPC](https://docs.blastapi.io/blast-documentation/readme)
 
+[Volver al inicio](#índice-de-llamadas)
+
 ## Jueves #5
 
 ### Video: -
@@ -148,6 +171,8 @@
 - [Anuncios en StarkwareSessions2023 - StarkNetEs](https://twitter.com/StarkNetEs/status/1623042098252623872?s=20&t=DY56BtdIVRd9j49hK9Lseg)
 - [Novedades sobre StarkNet - Nurstar](https://twitter.com/0xNurstar/status/1623566016289677313)
 - [Integración de Protostar con Cairo 1.0](https://twitter.com/MaksDemitraszek/status/1623643014827589632)
+
+[Volver al inicio](#índice-de-llamadas)
 
 ## Jueves #6
 
@@ -187,6 +212,8 @@
 - [Scarb - Administrador de paquetes](https://github.com/software-mansion/scarb)
 - [Introducción a Horus](https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67)
 
+[Volver al inicio](#índice-de-llamadas)
+
 ## Jueves #7
 
 ### Video: https://www.youtube.com/watch?v=9Ku3rI0stYM
@@ -205,6 +232,8 @@
 
 #### Red social
 - [StarkNet Social Testnet Guide](https://medium.com/@starknetsocial/starknet-social-testnet-guide-69345fdb75f9)
+
+[Volver al inicio](#índice-de-llamadas)
 
 ## Jueves #8
 
@@ -231,6 +260,8 @@
 - [Starknet Alpha v0.11.0](https://medium.com/starkware/starknet-alpha-v0-11-0-the-transition-to-cairo-1-0-begins-30442d494515)
 - [Primera ronda de grants para Early Adopter (EAG)](https://community.starknet.io/t/applications-for-round-1-of-early-adopter-grants-eag/54273)
 - [Los 5 comités de la Fundación StarkNet](https://www.starknet.io/en/posts/foundation/the-starknet-foundation-meet-the-committees)
+
+[Volver al inicio](#índice-de-llamadas)
 
 ## Jueves #9
 
@@ -264,6 +295,8 @@
 - [Extensión de Cairo para VS Code](https://github.com/Nadai2010/Nadai-StarknetEs-StarkExt-VS-Code)
 - [Aave v3. en Starknet](https://governance.aave.com/t/launch-aave-v3-on-starknet/12381)
 
+[Volver al inicio](#índice-de-llamadas)
+
 ## Jueves #10
 
 ### Video: https://www.youtube.com/watch?v=n8jMybcp-Mg
@@ -292,3 +325,49 @@
 - [Presentación Quaireaux - Dub](https://www.canva.com/design/DAFgAjdoc40/Tc9rf2reXVXFuKowcHS0oA/view)
 - [Repositorio Madara](https://github.com/keep-starknet-strange/madara)
 - [Community Call Madara](https://github.com/keep-starknet-strange/madara/discussions/222)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #11 Invitado especial 'Danilowhk'
+
+### Video: https://www.youtube.com/watch?v=m-oqwRtip7c
+
+### Links compartidos en la llamada: 
+
+#### Kakarot
+- [Repositorio de Kakarot](https://github.com/sayajin-labs/kakarot)
+- [Twitter de Danilo](https://twitter.com/danilowhk2)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #12
+
+### Video: https://www.youtube.com/watch?v=YynOvpIHv08
+
+### Links compartidos en la llamada: 
+
+#### Cairo 1.0
+- [Cairo 101](https://github.com/starknet-edu/starknet-cairo-101)
+- [Repositorio de InstaSwap](https://github.com/BibliothecaDAO/InstaSwap)
+
+#### Checkpoint
+- [Checkpoint](https://checkpoint.fyi/#/)
+- [Repositorio de un proyecto con Checkpoint](https://github.com/zarboq/buy-alert-bot-checkpoint)
+
+#### Starkfighter
+- [Starkfighter](https://starkfighter.xyz/)
+- [Subdominios](https://starkfighter.braavos.app/)
+
+#### Oraculos
+- [Awesome oracle manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
+- [Pragma Oracle](https://twitter.com/PragmaOracle)
+
+#### Noticias
+- [Repositorio de la comunidad](https://github.com/Starknet-Es)
+- [Roadmap Starknet 2023](https://twitter.com/StarkNetEs/status/1650661261376638976)
+- [Eventos de Starknet 2023](https://starkware.notion.site/2023-Events-f52da174fc7a4b728a657ec64792ad2c)
+- [Dappnode](https://dappnode.com/)
+- [Onlydust](https://app.onlydust.xyz/)
+- [Starknet Social](https://starknet.social/)
+
+[Volver al inicio](#índice-de-llamadas)
