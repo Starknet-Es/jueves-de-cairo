@@ -18,6 +18,10 @@
 * [Jueves #10](#jueves-10)
 * [Jueves #11](#jueves-11)
 * [Jueves #12](#jueves-12)
+* [Jueves #13](#jueves-13)
+* [Jueves #14](#jueves-14)
+* [Jueves #15](#jueves-15)
+* [Jueves #16](#jueves-16)
 
 ## Jueves #1 
 
@@ -369,5 +373,102 @@
 - [Dappnode](https://dappnode.com/)
 - [Onlydust](https://app.onlydust.xyz/)
 - [Starknet Social](https://starknet.social/)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #13
+
+### Video: https://www.youtube.com/watch?v=dAfpkcYzDyE
+
+### Links compartidos en la llamada: 
+
+- [Repositorio de la comunidad](https://github.com/Starknet-Es)
+
+#### Noticias
+- [Eventos de Starknet durante 2023](https://starkware.notion.site/2023-Events-f52da174fc7a4b728a657ec64792ad2c)
+- [Starknet Social](https://starknet.social/)
+- [Hoja de ruta de Starknet](https://twitter.com/StarkNetEs/status/1650661261376638976)
+- [Cairo book en español](https://twitter.com/StarkNetEs/status/1658591625143103491)
+- [Starknet, Cairo 1, Casm and Sierra?](https://twitter.com/0xhasher_/status/1658145431409270784)
+- [Tickets StarknetCC](https://twitter.com/StarknetCC/status/1658842308270493696)
+- [Remix Cairo 1](https://twitter.com/mempoolsurfer/status/1658500328927395840)
+- [Open-source projects en Starknet](https://twitter.com/antiyro/status/1658483993376100352)
+- [Contributor starter pack para Madara](https://github.com/keep-starknet-strange/madara/blob/main/docs/contributor-starter-pack.md)
+- [Starknet Community Call #43 | Introducing Madara](https://www.youtube.com/watch?v=ofR8-thEdiw)
+- [zk-STARKs Uncovered: Eli Ben-Sasson's Intense Masterclass | Basecamp Cohort](https://www.youtube.com/watch?v=jg9KSNOO2XY)
+- [Starknode](https://twitter.com/kasarLabs/status/1658896087908753408?s=20)
+- [Sha256 en cairo 1 - Alexandria](https://github.com/keep-starknet-strange/alexandria/blob/main/src/math/sha256.cairo)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #14
+
+### Video: https://www.youtube.com/watch?v=Gm84xwNN640&t=1718s
+
+### Links compartidos en la llamada: 
+
+- [Repositorio de la comunidad](https://github.com/Starknet-Es)
+
+#### Docs
+- [Docs Madara](https://docs.madara.zone/)
+- [Docs Herodotus](https://docs.herodotus.dev/herodotus-docs/)
+- [Scarb 0.3.0](https://github.com/software-mansion/scarb/releases/tag/v0.3.0)
+- [Repositorio de Dojo](https://github.com/dojoengine/dojo)
+- [Guía aprender con Solidity](https://github.com/Starknet-Es/StarknetEs-Aprendizaje#aprender-con-solidity)
+
+#### Noticias 
+- [Cairo 1 hackathon Pragma](https://taikai.network/pragma-oracle/hackathons/Cairo1hackathon/overview)
+- [Evento Lambdazkweek](https://events.lambdaclass.com/lambdazkweek)
+- [Lista de proyectos Starknet CC India](https://starknet-cc.devfolio.co/projects)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #15
+
+### Video: https://www.youtube.com/watch?v=EOBfIev8Iz0
+
+### Links compartidos en la llamada: 
+
+- [Repositorio de la comunidad](https://github.com/Starknet-Es)
+
+#### Noticias 
+- [Artículo The improved Starknet syntax](https://medium.com/starknet-edu/the-improved-starknet-syntax-6012f8e35a32)
+- [Artículo Sign in with Starknet technical proposal](https://community.starknet.io/t/sign-in-with-starknet-technical-proposal/95683)
+- [StarkVault - Hackathon Pragma](https://taikai.network/pragma-oracle/hackathons/Cairo1hackathon/projects/clj9bo46e00bzvx012zeq5bgs/idea)
+- [eip-6551](https://eips.ethereum.org/EIPS/eip-6551)
+
+#### Kakarot
+- [Action Kakarot](https://github.com/kkrt-labs/kakarot/actions/runs/5468540089/job/14806604163)
+- [Contract Kakarot](https://testnet.starkscan.co/contract/0x05fa0196e64f6ef60ff8d2aa37a77ad63775974845183e7a6a3052e7d7926035#read-write-contract-sub-write)
+- [Playground Kakarot](https://playground.kakarot.org/?fork=merge)
+
+[Volver al inicio](#índice-de-llamadas)
+
+## Jueves #16
+
+### Video: https://starkware-co.zoom.us/rec/share/zQekbjVEYH-ZiNUyWLZdHWRQ5rv5h80nmJBLtfQraAzWYEVa1jHcgUFaKNIGm611.cUs5Cuk9x86U-I-L
+
+### Links compartidos en la llamada: 
+
+## Cairo 1.0
+- [Twitter Cairo Sundae](https://twitter.com/CairoSundae)
+- [Node guardians](https://nodeguardians.io/)
+- [Retos de seguridad, ahora en Cairo 2](https://twitter.com/devnet0x/status/1679839263976824834?s=20)
+- [The Starknet Stacks](https://starkware.co/resource/the-starknet-stacks-growth-spurt/)
+- [Repositorio Starknet Foundry](https://github.com/foundry-rs/starknet-foundry)
+- [Storage proofs en Starknet Book](https://book.starknet.io/chapter_6/storage_proofs.html)
+
+#### Starknet CC
+- [Frico - After 3 weeks of hacking & onboarding](https://www.youtube.com/watch?v=skyYpU0xjdc&t=30318s)
+- [Yuval - Cairo - recent updates and what to expect](https://www.youtube.com/watch?v=skyYpU0xjdc&t=4118s)
+- [Luis - Community](https://www.youtube.com/watch?v=skyYpU0xjdc&t=5724s)
+
+#### Noticias
+- [Starknet meetup ETH argentina x muratori](https://www.eventbrite.es/e/starknet-meetup-eth-argentina-x-muratori-tickets-692045194807?aff=oddtdtcreator)
+- [Twitter HerodotusDev](https://twitter.com/HerodotusDev)
+- [Twitter AVNU](https://twitter.com/avnu_fi/status/1686723795678048256?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
+- [Tenderly](https://tenderly.co/)
+- [Beerus Starknet](https://twitter.com/BeerusStarknet/status/1686090985238061057)
+- [Protect the Open Source Ethos](https://twitter.com/0xPolygonZero/status/1687153310699057152)
 
 [Volver al inicio](#índice-de-llamadas)
